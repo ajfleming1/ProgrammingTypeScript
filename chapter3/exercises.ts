@@ -27,4 +27,5 @@
   let l: unknown = 4
   let m = l * 2 // Errr TS2571: Object is of type 'unknown.'
   /* The type unknown can represent any type at run time. For TypeScript to be satisfied with the use of unknown
-  at compile type, logic has to be added that assures that the operations are safe. This can be accomplished by using type of, instance of, or another type query or type guard. */
+  at compile type, logic has to be added that assures that the operations are safe. This can be accomplished by using
+  type of, instance of, or another type query or type guard. */
