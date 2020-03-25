@@ -1,0 +1,1 @@
+{"version":3,"file":"overloadedfunction.js","sourceRoot":"","sources":["../src/overloadedfunction.ts"],"names":[],"mappings":";AAAA,MAAM,WAAW;CAAG;AAAA,CAAC;AAOrB,IAAI,CAAC,GAAgB,CACnB,IAAU,EACV,eAA8B,EAC9B,WAAqB,EACrB,EAAE;IACF,IAAG,eAAe,YAAY,IAAI,IAAI,WAAW,KAAK,SAAS,EAAE;QAC/D,aAAa;KACd;SAAM,IAAG,OAAO,eAAe,KAAK,QAAQ,EAAE;QAC7C,eAAe;KAChB;AACH,CAAC,CAAA"}
